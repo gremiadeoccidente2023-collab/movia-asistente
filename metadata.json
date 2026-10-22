@@ -1,0 +1,6 @@
+{
+  "name": "MOVÍA",
+  "description": "Asistente de Gestión Documental y Comunicación Vial para la Secretaría de Movilidad municipal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
